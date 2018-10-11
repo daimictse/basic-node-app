@@ -1,0 +1,5 @@
+1. A Node module is a set of functions you wnt to include in your application.
+2. The main different between exports and module.exports is that module.exports is an object and exports is a reference to module.exports.
+3. Using exports is recommended because module.exports wouldn't get reassigned.
+
+
